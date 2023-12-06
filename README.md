@@ -1,1 +1,1 @@
-# NewRepo
+<img src="https://github.com/Gab-pereir/Crypto/blob/main/img/Estudo-de-caso.jpg">
